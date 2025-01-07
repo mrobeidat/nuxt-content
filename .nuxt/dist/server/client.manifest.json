@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/home/mrobeidat/Desktop/blog/node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/home/mrobeidat/Desktop/blog/node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/app/entry.js"
+  }
+}
