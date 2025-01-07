@@ -1,4 +1,4 @@
-export const Counter = () => import('../../app/components/Counter.vue')
+export const Counter = () => import('./../../app/components/Counter.vue')
 export const NuxtWelcome = () => import('./../../node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/app/components/welcome.vue')
 export const NuxtLayout = () => import('./../../node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/app/components/nuxt-layout')
 export const NuxtErrorBoundary = () => import('./../../node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/app/components/nuxt-error-boundary')

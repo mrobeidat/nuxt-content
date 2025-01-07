@@ -292,7 +292,7 @@ async function decompressSQLDump(base64Str, compressionType = "gzip") {
 }
 
 const checksums = {
-  "blog": "llPyzx4R6A"
+  "blog": "7mPVu7QGya"
 };
 const tables = {
   "blog": "_content_blog",

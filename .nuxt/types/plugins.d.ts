@@ -20,7 +20,8 @@ type NuxtAppInjections =
   InjectionType<typeof import("../../node_modules/.pnpm/@nuxt+devtools@1.7.0_rollup@4.30.0_vite@6.0.7_@types+node@22.10.5_jiti@2.4.2_terser@5.37.0_ya_c2gbrt5cnv2knf343kam4tpisu/node_modules/@nuxt/devtools/dist/runtime/plugins/devtools.client.js")> &
   InjectionType<typeof import("../../node_modules/.pnpm/@nuxt+content@3.0.0-alpha.8_@libsql+client@0.14.0_magicast@0.3.5_pg@8.13.1_rollup@4.30.0/node_modules/@nuxt/content/dist/runtime/plugins/websocket.dev.js")> &
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/app/plugins/dev-server-logs.js")> &
-  InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/app/plugins/check-if-layout-used.js")>
+  InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/app/plugins/check-if-layout-used.js")> &
+  InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.15.1_@libsql+client@0.14.0_@parcel+watcher@2.5.0_@types+node@22.10.5_better-sqlite3@11_lc4uqkzr4at65wjovkbmjdfuvi/node_modules/nuxt/dist/pages/runtime/plugins/prerender.server.js")>
 
 declare module '#app' {
   interface NuxtApp extends NuxtAppInjections { }

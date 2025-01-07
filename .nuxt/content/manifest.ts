@@ -1,5 +1,5 @@
 export const checksums = {
-  "blog": "llPyzx4R6A"
+  "blog": "7mPVu7QGya"
 }
 
 export const tables = {
